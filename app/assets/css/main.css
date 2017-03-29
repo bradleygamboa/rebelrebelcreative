@@ -1,3 +1,19 @@
+@font-face {
+    font-family: Aldo;
+    src: url(../fonts/Aldo.ttf);
+}
+
+#title{
+    font-size: 36px;
+    font-family: Aldo;
+    margin-top: 10px;
+}
+
+#nav-links{
+    font-size: 24px;
+    font-family: Aldo;
+}
+
 /* ------------------ BASE STYLES ------------------ */
 
 html {
