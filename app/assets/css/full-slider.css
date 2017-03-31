@@ -22,8 +22,8 @@ body {
 /* Background images are set within the HTML using inline CSS, not here */
 
 .fill {
-    width: 70%;
-    height: 75%;
+    width: 75%;
+    height: 80%;
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
