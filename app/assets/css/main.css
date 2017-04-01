@@ -3,10 +3,24 @@
     src: url(../fonts/Aldo.ttf);
 }
 
+@font-face {
+    font-family: Chunk;
+    src: url(../fonts/chunk.ttf);
+}
+
+@font-face {
+    font-family: Champ;
+    src: url(../fonts/champ.ttf);
+}
+
 #title{
-    font-size: 36px;
-    font-family: Aldo;
+    font-size: 48px;
+    font-family: ALdo;
     margin-top: 10px;
+}
+
+.contacts{
+  font-family: Champ;
 }
 
 #nav-links{
