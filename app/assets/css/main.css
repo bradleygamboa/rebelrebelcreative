@@ -181,7 +181,7 @@ html {
     background-color: #fff;
 }
 
-@media screen and (max-width: 767px) {
+@media all and (max-width: 767px) {
     .navbar-collapse {
         background-color: white;
     }
