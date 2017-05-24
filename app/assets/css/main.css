@@ -14,7 +14,7 @@
 }
 
 #title{
-    font-size: 48px;
+    font-size: 32px;
     font-family: ALdo;
     margin-top: 10px;
 }
@@ -181,12 +181,12 @@ html {
     background-color: #fff;
 }
 
-@media all and (max-width: 767px) {
+@media only and (max-width: 767px) {
     .navbar-collapse {
         background-color: white;
     }
     #title{
-        font-size: 24px;
+        font-size: 32px;
         font-family: ALdo;
         margin-top: 10px;
     }
