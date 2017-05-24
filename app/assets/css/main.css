@@ -185,6 +185,12 @@ html {
     .navbar-collapse {
         background-color: white;
     }
+    #title{
+        font-size: 24px;
+        font-family: ALdo;
+        margin-top: 10px;
+    }
+
 }
 
 
